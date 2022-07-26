@@ -1,0 +1,36 @@
+.navbar-brand img {
+  width: 290px;
+  height: 40px;
+}
+
+@media screen and (max-width: 576px) {
+  .navbar-brand img {
+    width: 200px;
+    height: 40px;
+  }
+}
+
+.bg-head {
+  background-color: #fffbf0;
+}
+
+span:nth-child(1) {
+  color: #fabe4c;
+}
+button {
+  background-color: #a4bc46;
+  padding: 18px 33px;
+}
+
+button img {
+  width: 24px;
+  height: 24px;
+}
+
+.bg-img {
+  background-color: #f1f1f1;
+}
+
+.price {
+  color: #fabe4c;
+}
